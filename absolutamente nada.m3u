@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/agentesonoesmio/Nada/main/menos%20cosas%20aun.xml"  
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/agentesonoesmio/Nada/main/menos%20cosas%20aun.xml"
 
 #EXTINF: -1 tvg-id="La1.es" tvg-name="La 1" tvg-chno="1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", La 1
 https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
