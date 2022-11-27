@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://m3u-editor.com/xml/a4995290-6e58-11ed-a569-73a47ef30ae4" 
 #EXTM3U 
 #EXTINF: -1 tvg-id="La1.es" tvg-name="La 1" tvg-chno="1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", La 1
 https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
