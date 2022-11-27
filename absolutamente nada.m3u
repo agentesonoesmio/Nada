@@ -141,16 +141,20 @@ Acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF: -1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="6" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Movistar +", Toros
 Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
-#EXTINF: -1 tvg-id="M+ ESTRENOS HD" tvg-name="Movistar Estrenos" tvg-chno="7" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="Movistar +", Movistar Estrenos
-http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1626
 #EXTINF: -1 tvg-id="M+ ACCION HD" tvg-name="Movistar Accion" tvg-chno="8" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="Movistar +", Movistar Accion
 http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1630
 #EXTINF: -1 tvg-id="M+ COMEDIA HD" tvg-name="Movistar Comedia" tvg-chno="9" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="Movistar +", Movistar Comedia
 http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1628
-#EXTINF: -1 tvg-id="M+ CRIMEN HD" tvg-name="M+ CRIMEN HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=14ce58&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmcr.png" group-title="Movistar +", Movistar Crimen
+#EXTINF: -1 tvg-id="M+ CRIMEN" tvg-name="M+ CRIMEN HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=14ce58&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmcr.png" group-title="Movistar +", Movistar Crimen
 http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/370284
 #EXTINF: -1 tvg-id="M+ Cine Español" tvg-name="Movistar Cine Ñ" tvg-chno="10" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="Movistar +", Movistar Cine Ñ
 http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1629
+#EXTINF: -1 tvg-id="M+ DRAMA HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="Movistar +", Movistar Drama
+http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1627
+#EXTINF: -1 tvg-id="M+ ESTRENOS HD" tvg-name="Movistar Estrenos" tvg-chno="7" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="Movistar +", Movistar Estrenos
+http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1626
+#EXTINF: -1 tvg-id="M+ LA RESISTENCIA" tvg-name="M La Resistencia" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ad3bd4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlresist.png" group-title="Movistar +", Movistar La Resistencia
+http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/317738
 #EXTINF: -1 tvg-id="M+ SERIES HD" tvg-name="Movistar Series" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="Movistar +", Movistar Series
 http://flyiptv.ottc.pro:80/pepaigla/Pepepaqui/1623
 #EXTINF: -1 tvg-id="FOX" tvg-name="FOX" tvg-chno="12" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="Movistar +", FOX
