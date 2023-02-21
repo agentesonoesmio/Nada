@@ -652,7 +652,7 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://1104426e14b649eb23fee16698768544285de478
 #EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 1080 MultiAudio" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg", M.L. Campeones 1080 MultiAudio
 #EXTGRP:Movistar Deportes
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg", M.L. Campeones HD
 #EXTGRP:Movistar Deportes
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
@@ -727,7 +727,7 @@ acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 aedf221240a0f8513d90b555bf1b6e5306ac1e76
 #EXTINF: -1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones", M.L. Campeones 1080 MultiAudio
 #EXTGRP:Movistar Deportes
-539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF: -1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones", M.L. Campeones 720
 #EXTGRP:Movistar Deportes
 f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
