@@ -757,7 +757,7 @@ a2e878fbab5dff0e2cda01e74a88c7b32eb67913
 8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
 #EXTINF: -1 tvg-id="DAZN 1" tvg-name="DAZN1" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg", DAZN 1 1080
 #EXTGRP:DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF: -1 tvg-id="DAZN 1" tvg-name="DAZN 1 720" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg", DAZN 1 720
 #EXTGRP:DAZN
 acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
