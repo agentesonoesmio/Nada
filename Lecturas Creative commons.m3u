@@ -790,13 +790,13 @@ acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg", DAZN F1 1080
 #EXTGRP:DAZN
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg", DAZN F1 1080 opcion 2
 #EXTGRP:DAZN
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 720" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg", DAZN F1 720
 #EXTGRP:DAZN
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF: -1 tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200", TV3CAT GEO CAT
 #EXTGRP:Int. Europa
 https://directes-tv-cat.ccma.cat/live-origin/tvi-hls/master.m3u8
